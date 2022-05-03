@@ -1,0 +1,4 @@
+/Users/LeanderFinckenstein/Desktop/simple-server-client-master/CMakeFiles/anp_client.dir
+/Users/LeanderFinckenstein/Desktop/simple-server-client-master/CMakeFiles/rebuild_cache.dir
+/Users/LeanderFinckenstein/Desktop/simple-server-client-master/CMakeFiles/edit_cache.dir
+/Users/LeanderFinckenstein/Desktop/simple-server-client-master/CMakeFiles/anp_server.dir

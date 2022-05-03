@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/anp_server.dir/src/tcp_server.c.o CMakeFiles/anp_server.dir/src/common.c.o  -o bin/anp_server 
